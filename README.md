@@ -16,7 +16,10 @@ Path
 
 Usage
 ----
+
+```
 ./check_postmark.sh <API-Token> <Request>
   
 Possible requests: {verify,record,snippet,reports}
-  
+
+```
