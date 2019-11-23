@@ -34,7 +34,7 @@
 # https://de.wikipedia.org/wiki/DMARC
 # https://dmarc.postmarkapp.com
 # https://dmarc.postmarkapp.com/api/
-#
+
 
 # Minimum of two paramaters
 if [[ "$#" -ne 2 ]]; then
