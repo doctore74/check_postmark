@@ -13,3 +13,8 @@ Path
 ----
 - Place this into /omd/sites/<SITE>/local/lib/nagios/plugins/
 - Make this script executable!
+
+Usage
+----
+Usage: check_postmark.sh <API-Token> <Request> -> Requests: {verify,record,snippet,reports}
+  
