@@ -16,5 +16,7 @@ Path
 
 Usage
 ----
-Usage: check_postmark.sh <API-Token> <Request> -> Requests: {verify,record,snippet,reports}
+./check_postmark.sh <API-Token> <Request>
+  
+Possible requests: {verify,record,snippet,reports}
   
