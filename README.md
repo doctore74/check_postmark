@@ -6,7 +6,7 @@ https://dmarc.postmarkapp.com
 
 checkmk
 --------
-https://mathias-kettner.com/
+https://checkmk.com/
 Successfully tested on checkmk RAW version 1.6.0 (stable)
 
 Path
@@ -21,5 +21,4 @@ Usage
 ./check_postmark.sh <API-Token> <Request>
   
 Possible requests: {verify,record,snippet,reports}
-
 ```
