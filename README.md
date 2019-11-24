@@ -4,10 +4,10 @@ Get information about postmark data of domain
 Configure Postmark for your domain with the instructions on:
 https://dmarc.postmarkapp.com
 
-Check_MK
+checkmk
 --------
 https://mathias-kettner.com/
-Successfully tested on Check_MK RAW version 1.6.0 (stable)
+Successfully tested on checkmk RAW version 1.6.0 (stable)
 
 Path
 ----
